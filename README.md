@@ -148,4 +148,4 @@ Stored Procedures инкапсулируют бизнес-логику. Поль
 3.  PostgreSQL Documentation. Client Authentication. URL: https://www.postgresql.org/docs/current/auth-pg-hba-conf.html (Дата обращения: 17.01.2025).
 4.  MySQL Documentation. The MySQL Access Privilege System URL: https://dev.mysql.com/doc/refman/8.0/en/privilege-system.html (Дата обращения: 17.01.2025).
 5.  CIS Benchmarks. Consensus-based security configuration guides. URL: https://www.cisecurity.org/cis-benchmarks/ (Дата обращения: 17.01.2025).
-Реферат размещен по ссылке: https://github.com/VovaParfenov/Parfenov-Vladimir-Sergeevich-19/upload/main
+Реферат размещен по ссылке: https://github.com/VovaParfenov/Parfenov-Vladimir-Sergeevich-19
